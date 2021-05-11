@@ -1,0 +1,10 @@
+name: bulk_barcode_generator
+description: A simple bulk barcode generator.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  args: ^2.1.0
+  barcode: ^2.1.0

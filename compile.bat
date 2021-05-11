@@ -1,0 +1,1 @@
+dart compile exe bin/main.dart -o bulk_barcode_generator.exe
